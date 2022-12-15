@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000111;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-weight: 100;
+    font-size: default;
+}
+
+.container{
+    margin: 40px;
+    padding: 0;
+    background-image: url(https://media.tenor.com/x8v1oNUOmg4AAAAM/rickroll-roll.gif);
+    width: 100;
+}
